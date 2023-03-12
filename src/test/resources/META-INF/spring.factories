@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = bzh.edgar.info4coopcyclejhipster.config.TestContainersSpringContextCustomizerFactory
